@@ -1,14 +1,12 @@
-# Zelovyn Investor Ready Website
+# Zelovyn Investor Ready — V2
 
-Premium Next.js website for Zelovyn.
+Simple static Vercel deployment.
 
-Target GitHub repository:
+Files:
+- `index.html` — complete website
+- `zelovyn-story-v1.mp4` — cinematic story video
+
+Upload these files directly to the ROOT of:
 `nadeem2510/nadeem2510-zelovyn-investor-ready`
 
-The Vercel project is already connected to this repository. Commit the contents of this project to the `main` branch and Vercel should automatically deploy.
-
-Local development:
-```bash
-npm install
-npm run dev
-```
+No npm install is required for this version.
